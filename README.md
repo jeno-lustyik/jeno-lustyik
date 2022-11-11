@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeno-lustyik
 - 👀 I’m interested in ML/AI
 - 🌱 Graduate from EPICODE's Data Science class.
-- 📫 You can reach me on discord on @ jeno#1308 in mail @ mailto:lustyik.jeno@gmail.com
+- 📫 You can reach me on discord on @jeno#1308 or in mail @ mailto:lustyik.jeno@gmail.com
 
 I enjoy solving all kind of problems, the trickier the better.
 
