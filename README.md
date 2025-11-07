@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jeno-lustyik, just call me Jenő.
+- 👋 Hi, I’m Jenő Lustyik.
 - 👀 I’m mostly interested in Go or Python development, but love learning Rust.
-- 🌱 Graduate from EPICODE's Python class. ELTE CS from 2025 Sep.
+- Studying.
 - 📫 You can reach me on discord on [at] jeno [hashtag] 1308 or in mail lustyik [dot] jeno [at] gmail com
 
 I enjoy solving all kind of problems, the trickier the better.
